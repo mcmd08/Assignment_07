@@ -1,7 +1,7 @@
 # Assignment_07
 Welcome to Maria's Assignment07 Github Repository.
 
-![CDInventory.py Demo](Assignment_08/assignment07.gif)
+![CDInventory.py Demo](images/assignment07.gif)
 
 ## Repository Items
 * 1
